@@ -1,0 +1,30 @@
+{
+  "pages": 11,
+  "renderer": "PyMuPDF 1.26.5",
+  "all_pages_visually_reviewed": true,
+  "layout_status": "passed",
+  "structure_matches_supplied_reference": true,
+  "headings_verified": [
+    "I. RINGKASAN JURNAL",
+    "1.1 Identitas dan Permasalahan Penelitian",
+    "1.2 Dataset, Lingkungan, dan Metode",
+    "1.3 Hasil Utama Artikel dan Alasan Pemilihan",
+    "II. TAHAPAN IMPLEMENTASI ATAU EKSPERIMEN",
+    "2.1 Bentuk Replikasi dan Sasaran",
+    "2.2 Lingkungan Perangkat Lunak",
+    "2.3 Rancangan Variasi Parameter",
+    "2.4 Langkah Eksperimen",
+    "2.5 Perbedaan Dibandingkan dengan Artikel",
+    "III. HASIL PENGUJIAN DAN ANALISIS",
+    "3.4 Perbandingan Temuan dengan Artikel",
+    "IV. KENDALA DAN REFLEKSI",
+    "4.1 Catatan Pelaksanaan dan Keterbatasan",
+    "4.2 Refleksi dan Usulan Perbaikan",
+    "5. TAUTAN KODE",
+    "DAFTAR PUSTAKA",
+    "PERNYATAAN PENGGUNAAN ALAT BANTU",
+    "LAMPIRAN A. DATA PENGUJIAN PER KONFIGURASI"
+  ],
+  "upload_mode": "manual by user",
+  "sha256_pdf": "79f290d7fc3d28cfc261969044224846e784e43d33833aa0940d550aed2565a4"
+}

@@ -1,0 +1,8 @@
+{
+  "total_seconds": 72.87260610004887,
+  "best_test_model": "MPR",
+  "selection_criterion": "validation RMSE per model family",
+  "test_protocol": "rolling one-step, observed past loads available at each forecast origin",
+  "zero_policy": "retained",
+  "timing_protocol": "one run, warm JVM, includes transform+collect, not benchmark"
+}

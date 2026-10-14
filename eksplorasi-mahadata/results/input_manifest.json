@@ -1,0 +1,17 @@
+[
+  {
+    "file": "LCL-June2015v2_0.csv",
+    "bytes": 50755532,
+    "sha256": "4997141df1efb62488305936c3d2aee395c456f475542bfbdcd5a2145479bd61"
+  },
+  {
+    "file": "LCL-June2015v2_1.csv",
+    "bytes": 50736845,
+    "sha256": "e2d9a8b89289edc7c6a25290b90635ac744cef347b7e0164f8c4bc2b8c0b55bd"
+  },
+  {
+    "file": "LCL-June2015v2_2.csv",
+    "bytes": 50880880,
+    "sha256": "07516831f44ff2cc0a1647d3e9cfcbac92415890d3666cdc0d658bcef73a14b9"
+  }
+]

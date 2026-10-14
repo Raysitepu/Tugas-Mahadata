@@ -1,0 +1,52 @@
+{
+  "MPR": {
+    "model": "MPR",
+    "regParam": 0.0,
+    "elasticNetParam": 0.0,
+    "maxDepth": 5,
+    "validation_RMSE": 1.276127565038906,
+    "validation_R2": 0.8426594471206736,
+    "fit_seconds": 2.8662463999935426,
+    "predict_seconds": 0.6595566000323743
+  },
+  "Ridge": {
+    "model": "Ridge",
+    "regParam": 0.001,
+    "elasticNetParam": 0.0,
+    "maxDepth": 5,
+    "validation_RMSE": 1.2764127356467072,
+    "validation_R2": 0.8425891188625063,
+    "fit_seconds": 0.6270466999849305,
+    "predict_seconds": 0.6351729999878444
+  },
+  "Lasso": {
+    "model": "Lasso",
+    "regParam": 0.01,
+    "elasticNetParam": 1.0,
+    "maxDepth": 5,
+    "validation_RMSE": 1.2563811247146124,
+    "validation_R2": 0.8474910613730079,
+    "fit_seconds": 0.5073685999959707,
+    "predict_seconds": 0.6166972999926656
+  },
+  "ElasticNet": {
+    "model": "ElasticNet",
+    "regParam": 0.01,
+    "elasticNetParam": 0.5,
+    "maxDepth": 5,
+    "validation_RMSE": 1.2636143212613984,
+    "validation_R2": 0.8457299674656261,
+    "fit_seconds": 0.42889639997156337,
+    "predict_seconds": 0.6010563999880105
+  },
+  "DTR": {
+    "model": "DTR",
+    "regParam": 0.0,
+    "elasticNetParam": 0.0,
+    "maxDepth": 5,
+    "validation_RMSE": 1.3965316427129943,
+    "validation_R2": 0.8115682622748559,
+    "fit_seconds": 1.2301495000137947,
+    "predict_seconds": 0.6863770000054501
+  }
+}

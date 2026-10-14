@@ -1,0 +1,29 @@
+{
+  "client_report_date": "2026-10-14",
+  "execution_timestamp_utc": "2026-10-14T11:38:35.813471+00:00",
+  "python": "3.13.2",
+  "spark": "4.0.1",
+  "java": "21.0.12.1",
+  "os": "Windows-11-10.0.26200-SP0",
+  "logical_cpus": 32,
+  "master": "local[2]",
+  "driver_memory": "4g",
+  "shuffle_partitions": 8,
+  "timezone": "UTC",
+  "seed": 42,
+  "features": [
+    "slot_sin",
+    "slot_cos",
+    "dow_sin",
+    "dow_cos",
+    "year_sin",
+    "year_cos",
+    "weekend",
+    "lag1",
+    "lag48",
+    "lag336"
+  ],
+  "forecast_horizon_minutes": 30,
+  "validation_start": "2013-09-01",
+  "test_start": "2013-11-01"
+}

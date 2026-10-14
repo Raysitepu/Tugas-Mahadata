@@ -1,0 +1,11 @@
+{
+  "format": "docx",
+  "renderer": "Microsoft Word 16.0; native PDF render inspected internally",
+  "pages": 11,
+  "all_pages_visually_reviewed": true,
+  "tables": 10,
+  "images": 4,
+  "editable_headings_and_tables": true,
+  "sha256": "22560cd62bf8662f8a6ffd27bf49b55fceaecdc1e08fc857b26bee0e6bab166b",
+  "no_github_upload": true
+}

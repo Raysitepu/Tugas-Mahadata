@@ -1,0 +1,15 @@
+{
+  "status": "passed",
+  "checks": [
+    "unique sorted timestamps",
+    "fixed 50-household nonnegative target",
+    "test time boundaries",
+    "actual target matches aggregate",
+    "exact 30min/day/week lag matches",
+    "all reported metrics independently recomputed",
+    "model-family selection minimizes validation RMSE"
+  ],
+  "test_samples": 2833,
+  "models": 8,
+  "finite_predictions": true
+}

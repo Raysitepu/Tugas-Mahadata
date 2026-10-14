@@ -1,0 +1,1016 @@
+{
+  "files": 168,
+  "total_rows": 167932474,
+  "total_bytes": 8542826421,
+  "method": "count data lines; assumes one record per CSV line; no dataset mutation",
+  "records": [
+    {
+      "file": "LCL-June2015v2_0.csv",
+      "bytes": 50755532,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_1.csv",
+      "bytes": 50736845,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_2.csv",
+      "bytes": 50880880,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_3.csv",
+      "bytes": 50920497,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_4.csv",
+      "bytes": 50849847,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_5.csv",
+      "bytes": 50736760,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_6.csv",
+      "bytes": 50905358,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_7.csv",
+      "bytes": 50873085,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_8.csv",
+      "bytes": 50856226,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_9.csv",
+      "bytes": 50860642,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_10.csv",
+      "bytes": 50901009,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_11.csv",
+      "bytes": 50900958,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_12.csv",
+      "bytes": 50812014,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_13.csv",
+      "bytes": 50930108,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_14.csv",
+      "bytes": 50884549,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_15.csv",
+      "bytes": 50893164,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_16.csv",
+      "bytes": 50925106,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_17.csv",
+      "bytes": 50817969,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_18.csv",
+      "bytes": 50871026,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_19.csv",
+      "bytes": 50867119,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_20.csv",
+      "bytes": 50888818,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_21.csv",
+      "bytes": 50867991,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_22.csv",
+      "bytes": 50842196,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_23.csv",
+      "bytes": 50902847,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_24.csv",
+      "bytes": 50867811,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_25.csv",
+      "bytes": 50896495,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_26.csv",
+      "bytes": 50896352,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_27.csv",
+      "bytes": 50861182,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_28.csv",
+      "bytes": 50856855,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_29.csv",
+      "bytes": 50836540,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_30.csv",
+      "bytes": 50876324,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_31.csv",
+      "bytes": 50920568,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_32.csv",
+      "bytes": 50898824,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_33.csv",
+      "bytes": 50859002,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_34.csv",
+      "bytes": 50634562,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_35.csv",
+      "bytes": 50815761,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_36.csv",
+      "bytes": 50895764,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_37.csv",
+      "bytes": 50838942,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_38.csv",
+      "bytes": 50894361,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_39.csv",
+      "bytes": 50884989,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_40.csv",
+      "bytes": 50914194,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_41.csv",
+      "bytes": 50866256,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_42.csv",
+      "bytes": 50875375,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_43.csv",
+      "bytes": 50915734,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_44.csv",
+      "bytes": 50953897,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_45.csv",
+      "bytes": 50891197,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_46.csv",
+      "bytes": 50893114,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_47.csv",
+      "bytes": 50883810,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_48.csv",
+      "bytes": 50894252,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_49.csv",
+      "bytes": 50908694,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_50.csv",
+      "bytes": 50921801,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_51.csv",
+      "bytes": 50825852,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_52.csv",
+      "bytes": 50798473,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_53.csv",
+      "bytes": 50807801,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_54.csv",
+      "bytes": 50902631,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_55.csv",
+      "bytes": 50867009,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_56.csv",
+      "bytes": 50854853,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_57.csv",
+      "bytes": 50866045,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_58.csv",
+      "bytes": 50900600,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_59.csv",
+      "bytes": 50824997,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_60.csv",
+      "bytes": 50893848,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_61.csv",
+      "bytes": 50856595,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_62.csv",
+      "bytes": 50891548,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_63.csv",
+      "bytes": 50811924,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_64.csv",
+      "bytes": 50740790,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_65.csv",
+      "bytes": 50894800,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_66.csv",
+      "bytes": 50885963,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_67.csv",
+      "bytes": 50862466,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_68.csv",
+      "bytes": 50861885,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_69.csv",
+      "bytes": 50890228,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_70.csv",
+      "bytes": 50733216,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_71.csv",
+      "bytes": 50848207,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_72.csv",
+      "bytes": 50897513,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_73.csv",
+      "bytes": 50866221,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_74.csv",
+      "bytes": 50841974,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_75.csv",
+      "bytes": 50889822,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_76.csv",
+      "bytes": 50890387,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_77.csv",
+      "bytes": 50888362,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_78.csv",
+      "bytes": 50901844,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_79.csv",
+      "bytes": 50901887,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_80.csv",
+      "bytes": 50858603,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_81.csv",
+      "bytes": 50913682,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_82.csv",
+      "bytes": 50910400,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_83.csv",
+      "bytes": 50889132,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_84.csv",
+      "bytes": 50860776,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_85.csv",
+      "bytes": 50917212,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_86.csv",
+      "bytes": 50807075,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_87.csv",
+      "bytes": 50895508,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_88.csv",
+      "bytes": 50931020,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_89.csv",
+      "bytes": 50874421,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_90.csv",
+      "bytes": 50914846,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_91.csv",
+      "bytes": 50899311,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_92.csv",
+      "bytes": 50891493,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_93.csv",
+      "bytes": 50924525,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_94.csv",
+      "bytes": 50761193,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_95.csv",
+      "bytes": 50871293,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_96.csv",
+      "bytes": 50901416,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_97.csv",
+      "bytes": 50913466,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_98.csv",
+      "bytes": 50913652,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_99.csv",
+      "bytes": 50897698,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_100.csv",
+      "bytes": 50869633,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_101.csv",
+      "bytes": 50866022,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_102.csv",
+      "bytes": 50878056,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_103.csv",
+      "bytes": 50914005,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_104.csv",
+      "bytes": 50856066,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_105.csv",
+      "bytes": 50922092,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_106.csv",
+      "bytes": 50882467,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_107.csv",
+      "bytes": 50874549,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_108.csv",
+      "bytes": 50919802,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_109.csv",
+      "bytes": 50885735,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_110.csv",
+      "bytes": 50826297,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_111.csv",
+      "bytes": 50826346,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_112.csv",
+      "bytes": 50769737,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_113.csv",
+      "bytes": 50891402,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_114.csv",
+      "bytes": 50793521,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_115.csv",
+      "bytes": 50897099,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_116.csv",
+      "bytes": 50942763,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_117.csv",
+      "bytes": 50836989,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_118.csv",
+      "bytes": 50904583,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_119.csv",
+      "bytes": 50835329,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_120.csv",
+      "bytes": 50775113,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_121.csv",
+      "bytes": 50860162,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_122.csv",
+      "bytes": 50895017,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_123.csv",
+      "bytes": 50900930,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_124.csv",
+      "bytes": 50907315,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_125.csv",
+      "bytes": 50836483,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_126.csv",
+      "bytes": 50897580,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_127.csv",
+      "bytes": 50801872,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_128.csv",
+      "bytes": 50934985,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_129.csv",
+      "bytes": 50922904,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_130.csv",
+      "bytes": 50962578,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_131.csv",
+      "bytes": 50874068,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_132.csv",
+      "bytes": 50895237,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_133.csv",
+      "bytes": 50888272,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_134.csv",
+      "bytes": 50875206,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_135.csv",
+      "bytes": 50901897,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_136.csv",
+      "bytes": 50817644,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_137.csv",
+      "bytes": 50884241,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_138.csv",
+      "bytes": 50881173,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_139.csv",
+      "bytes": 50816606,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_140.csv",
+      "bytes": 50888697,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_141.csv",
+      "bytes": 50863171,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_142.csv",
+      "bytes": 50893160,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_143.csv",
+      "bytes": 50869381,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_144.csv",
+      "bytes": 50897911,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_145.csv",
+      "bytes": 50851765,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_146.csv",
+      "bytes": 50724016,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_147.csv",
+      "bytes": 50887350,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_148.csv",
+      "bytes": 50841200,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_149.csv",
+      "bytes": 50806477,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_150.csv",
+      "bytes": 50894128,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_151.csv",
+      "bytes": 50863015,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_152.csv",
+      "bytes": 50868496,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_153.csv",
+      "bytes": 50771311,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_154.csv",
+      "bytes": 50907971,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_155.csv",
+      "bytes": 50898078,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_156.csv",
+      "bytes": 50909920,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_157.csv",
+      "bytes": 50900515,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_158.csv",
+      "bytes": 50883555,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_159.csv",
+      "bytes": 50902055,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_160.csv",
+      "bytes": 50917490,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_161.csv",
+      "bytes": 50912484,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_162.csv",
+      "bytes": 50823294,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_163.csv",
+      "bytes": 50897957,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_164.csv",
+      "bytes": 50798090,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_165.csv",
+      "bytes": 50903117,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_166.csv",
+      "bytes": 50910939,
+      "rows": 1000000,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    },
+    {
+      "file": "LCL-June2015v2_167.csv",
+      "bytes": 47441437,
+      "rows": 932474,
+      "header": "LCLid,stdorToU,DateTime,KWH/hh (per half hour)"
+    }
+  ]
+}

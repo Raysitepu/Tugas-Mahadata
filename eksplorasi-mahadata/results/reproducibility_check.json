@@ -1,0 +1,13 @@
+{
+  "repeat_run_status": "passed",
+  "same_metrics_to_tolerance": 1e-12,
+  "rerun_exit_code": 0,
+  "original_total_seconds": 72.87260610004887,
+  "repeat_model_only_seconds": 41.72,
+  "final_launcher_check": {
+    "exit_code": 0,
+    "model_metrics_match": true,
+    "total_seconds": 39.0,
+    "system_cannot_find_path_warning": false
+  }
+}
